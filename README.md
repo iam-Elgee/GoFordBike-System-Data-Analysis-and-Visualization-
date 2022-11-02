@@ -1,6 +1,14 @@
 # (FordGo Bike Dataset Exploration)
 ## by (Olamilekan Olugbayila)
 
+# ---About Project:
+This is the third project in the udacity Data Analysis Nano degree, The project workflow includes wrangling of the GoFord Bike system dataset and the analysis and Visualization of the data to produce key insights into the consumers' usage patterns and bike demand trends in the system.
+
+#--- Description of Files in the Repo:
+Files include:
+>- (Part 1 exploratory): This is the jupyter notebook written in python language for the data exploratory phase of the project. Univariate, Bivariate and Multivariate data exploration is carried out in this section, and over 15 different insights are generated via visualiuzations of the dataset
+
+>- (Slides_Deck): This is a slides deck containing the Explanatory part of the workflow, It sumarrizes 3 key insights generated from the analysed data.
 
 ## Dataset Overview
 
